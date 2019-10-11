@@ -1,0 +1,6 @@
+com\crm\qa\Util\TestUtil.class
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\pages\signUp.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\testbase\TestBase.class
